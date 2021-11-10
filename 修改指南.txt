@@ -1,0 +1,19 @@
+修改账号密码
+	clickme为主页面，用编辑器打开后（我用的sublime）找到23排有个x=   ，y= 把后面的数字或字母改了就行（汉字也可以）
+修改第二个页面图片
+	打开secondlucky文件夹，找到images，里面有张图片，这是文字图片，需要制作者自己PS把文字图片栅格化并且保存为PNG
+   格式，当然，你要只是放个图片也不用这么费事。
+                如果图片的上下左右不合你意，打开secondlucky下面的LuckEverytime.html，找到15排有个 .LoR，这里的css自己调整即可。
+修改第三个页面文字
+ 	打开第三个文件夹下面的FelicityCake.html，然后一直往下拉，找到147排和148排，这里修改你的文字。
+修改三个页面BGM
+	三个文件夹对应三个三个页面，找到三个文件夹下面的images下面的mp3格式音乐，自行修改即可，当然不要忘
+了音乐名字不能修改 要保持我原本写上去的名字（当然你也可以去找三个页面的HTML文件里面audio标签下面的音乐名字修改）
+
+
+
+更多作品在B站，请关注三连   天空树下の誓言    谢谢QwQ
+https://www.bilibili.com/video/BV1TV411Z7aC
+https://www.bilibili.com/video/BV14741137LW
+https://www.bilibili.com/video/BV1x7411Y7k7
+
